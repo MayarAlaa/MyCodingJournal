@@ -3,6 +3,11 @@ A journal to keep track of what I learn/hear about everyday .
 
 WARNING: My words may seem unrelated and unclear .
 
+# 5/8/2019
+
+Wasn't a productive day. I've been working with c# and .Net for a couple of months now. Dot net is an environment or a framework that provide some services for applications built on it. These services include cryptography, exception handling... etc.
+Dot net consists of CLR and class libraries. The courses on LinkedIn learning are cool! 
+
 
 # 4/8/2019
 
