@@ -5,8 +5,14 @@ WARNING: My words may seem unrelated and unclear .
 
 # 5/8/2019
 
-Wasn't a productive day. I've been working with c# and .Net for a couple of months now. Dot net is an environment or a framework that provide some services for applications built on it. These services include cryptography, exception handling... etc.
-Dot net consists of CLR and class libraries. The courses on LinkedIn learning are cool! 
+Wasn't a productive day. I've been working with c# and .Net for a couple of months now.
+Dot net is an environment or a framework that provide some services for applications built on it. These services include cryptography, reading files,connecting to databases.... etc.
+Dot net consists of CLR(Common Language Runtime)and FCL (Framework Class Libraries. 
+CLR manages my app when it's running. It does things like memory management, garbage collection, Exception handling and it's independent of the operating system and the hardware used.
+On the other hand, FCL provides **functionality** to my app.It represent the ready-made functions and libraries that are used in the app.
+
+
+Side-note :The courses on LinkedIn learning are cool! 
 
 
 # 4/8/2019
