@@ -3,6 +3,9 @@ A journal to keep track of what I learn/hear about everyday .
 
 WARNING: My words may seem unrelated and unclear .
 
+# 7/8/2019
+
+ConcurrentDictionary helps when using multiple threads.It ensures that there are no repeated keys. Tryadd will return false if the key was already added before.
 
 # 6/8/2019
 
