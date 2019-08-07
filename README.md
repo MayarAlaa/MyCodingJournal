@@ -3,6 +3,15 @@ A journal to keep track of what I learn/hear about everyday .
 
 WARNING: My words may seem unrelated and unclear .
 
+
+# 6/8/2019
+
+Dictionary vs Hashtable
+The Dictionary is a generic type and that provides type safety and no need for boxing/unboxing.Its implementation is based on the Hashtable.
+The Hashtable on the other hand is non-generic so boxing/unboxing is needed.
+First time to hear about ConcurrentDictionary.Need to read about it.
+
+
 # 5/8/2019
 
 Wasn't a productive day. I've been working with c# and .Net for a couple of months now.
