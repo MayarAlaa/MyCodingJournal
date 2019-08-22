@@ -3,6 +3,18 @@ A journal to keep track of what I learn/hear about everyday .
 
 WARNING: My words may seem unrelated and unclear .
 
+# 22/8/2019
+
+Finallyyy back to work after a very long vacation.
+
+**MSSQL**: select * from MyTable where MyColumn = null will always evaluate to null because null means unknown.So basically you're comparing something unknown to another unknown.
+To do this check use MyColumn is null (resource: https://stackoverflow.com/questions/9581745/sql-is-null-and-null)
+
+**Sharing Knowledge Sessions**: Amazon Lamda Function.
+
+**Problem Solving at home**: I'm a total disappointment :( :(
+
+
 # 7/8/2019
 
 ConcurrentDictionary helps when using multiple threads.It ensures that there are no repeated keys. Tryadd will return false if the key was already added before.
