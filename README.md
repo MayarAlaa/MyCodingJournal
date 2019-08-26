@@ -3,6 +3,12 @@ A journal to keep track of what I learn/hear about everyday .
 
 WARNING: My words may seem unrelated and unclear .
 
+# 27/8/2019
+
+I just want to say that I love Route 
+Debugger <3. It really helps a lot with tracking your routes.
+
+
 # 22/8/2019
 
 Finallyyy back to work after a very long vacation.
