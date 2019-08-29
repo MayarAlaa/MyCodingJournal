@@ -3,6 +3,17 @@ A journal to keep track of what I learn/hear about everyday .
 
 WARNING: My words may seem unrelated and unclear .
 
+# 29/8/2019
+
+Sometimes the tasks I'm assigned to during the sprint
+help me learn more about the business of the product
+on which we're working .This week's sprint taught me a bit 
+technical,but I feel it was more about the business.
+Talking about the technical side, today I learned how to call the try block more than one time
+in case an exception is caught and you just want to go to the try block again.
+Just use a while loop and flag to stop it once the try block is executed without any exceptions.
+
+
 # 27/8/2019
 
 I just want to say that I love Route 
