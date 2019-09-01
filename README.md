@@ -9,7 +9,7 @@ WARNING: My words may seem unrelated and unclear .
 This month may be the beginning of the end of a certain period in my life.
 What I'm about to write is not exactly about coding. Over the last few days, 
 I have been practicing answering some IQ questions. I felt the questions are reviving my mind. They made me revise things that I'd forgotten how to do manually because why when using the calculator is a lot easier.
-These things include multiplication, long division ,turning a fraction into a decimal, simplifying fractions... etc
+These things include multiplication, long division ,turning a decimal to a fraction, simplifying fractions... etc
 
 
 # 29/8/2019
