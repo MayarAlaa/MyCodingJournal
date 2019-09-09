@@ -3,6 +3,9 @@ A journal to keep track of what I learn/hear about everyday .
 
 WARNING: My words may seem unrelated and unclear .
 
+# 9/9/2019
+
+Be aware of the conditions in the where clause in sql server.
 # 8/9/2019
 
 Today, I did a very little reading about setting up the timeout for MVC applications .The timeout is set up at two places .One at web.config file and the other through IIS recycle.
