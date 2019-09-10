@@ -3,6 +3,11 @@ A journal to keep track of what I learn/hear about everyday .
 
 WARNING: My words may seem unrelated and unclear .
 
+# 10/9/2019
+
+Today,I revised the concept of normalization in SQL. I also read about null propagation operator in C#.
+
+
 # 9/9/2019
 
 Be aware of the conditions in the where clause in sql server.
