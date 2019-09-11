@@ -3,6 +3,9 @@ A journal to keep track of what I learn/hear about everyday .
 
 WARNING: My words may seem unrelated and unclear .
 
+# 11/9/2019
+
+Today, I learned the difference between authentication and authorization.
 # 10/9/2019
 
 Today,I revised the concept of normalization in SQL. I also read about null propagation operator in C#.
