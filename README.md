@@ -7,7 +7,7 @@ WARNING: My words may seem unrelated and unclear .
 # 12/9/2019
 
 Today was the first time for me integrating work done by the front-end team with my work. I created the controller and the view class and took from them the html,css and JavaScript.
-I also learned a way to approximate decimal numbers by using Cast As Decimal rather than Round function which didn't work with me. I also revisited the topic of time out and ISS recycle.
+In MSSQL I learned a way to approximate decimal numbers by using Cast As Decimal rather than Round function which didn't work with me. I also revisited the topic of time out and ISS recycle.
 
 
 # 11/9/2019
