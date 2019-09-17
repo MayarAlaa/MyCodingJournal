@@ -3,6 +3,11 @@ A journal to keep track of what I learn/hear about everyday .
 
 WARNING: My words may seem unrelated and unclear .
 
+# 17/9/2019
+
+The more I dig deep into programming,the more I realize how fun and amazing it is. That's what I found out during my preparation for the ITI scholarship.
+I had to revise some concepts and I learned tons of things related to oop.I hope I get accepted يارب
+
 
 # 12/9/2019
 
