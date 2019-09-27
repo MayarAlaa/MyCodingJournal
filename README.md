@@ -3,6 +3,14 @@ A journal to keep track of what I learn/hear about everyday .
 
 WARNING: My words may seem unrelated and unclear .
 
+# 26/9/2019
+
+Been a long time since I have written here anything.It was a week full of "things",if that makes any sense.
+I'm waiting for the results of the ITI scholarship.يارب اتقبل
+I think last week I learned so many things, mostly sql related and to be more specific stuff related to date/time like *datefromparts(int year,int month,int day)* that forms a date.
+and many other related ready made functions. Today,I've learned an interesting thing, which is how to extract duplicate values from a table ,simply use *Having count>1* .Also, the IMASK in JavaScript ,well I don't know JS at all, but using this IMASK you can make the user enters a correct input ,if I want only numbers as an input,I'll use the numbers mask.
+
+
 # 17/9/2019
 
 The more I dig deep into programming,the more I realize how fun and amazing it is. That's what I found out during my preparation for the ITI scholarship.
